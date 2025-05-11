@@ -8,7 +8,7 @@ Lịch trình cụ thể dựa theo hướng dẫn của vợ bạn.
 
 | Thời gian        | Việc cần làm                                                                                  |
 |------------------|-----------------------------------------------------------------------------------------------|
-| **~8:30 sáng**   | **Bé thức dậy** – Pha **180–200ml sữa** với **6–7 muỗng bột sữa**.                            |
+| **~8:30 sáng**   | **Bé thức dậy** – Pha **180–200ml sữa** với **6–7 muỗng bột sữa**. 30 ml = 1v, 70 oC                            |
 |                  | Chơi với bé sau khi uống sữa.                                                                 |
 | **9:00–11:30**   | Thời gian chơi — chơi tự do, ôm ấp, có thể đưa bé đi dạo.                                    |
 | **11:30 trưa**   | **Bữa trưa** – Hâm **2 viên thịt đông** + trộn với **cháo ăn liền** + nước.                  |
@@ -20,7 +20,7 @@ Lịch trình cụ thể dựa theo hướng dẫn của vợ bạn.
 |                  | Có thể trộn với chuối.                                                                       |
 |                  | 💧 Cho bé **uống nước** sau bữa phụ (ly xanh lá).                                             |
 | **3:30–4:30 chiều** | Thời gian chơi — chú ý nếu bé ị (💩). Có thể cần **thay tã** hoặc **tắm**.                 |
-| **4:30–5:00 chiều** | **Ngủ chiều #2** – Giấc ngủ ngắn. Đảm bảo bé **thức dậy trước 5:30 chiều**. Khoảng 30 phút. |
+| **4:30–5:00 chiều** | **Ngủ chiều #2** – Giấc ngủ ngắn. Đảm bảo bé **thức dậy trước 5 chiều**. Khoảng 30 phút. |
 | **6:00 tối**     | **Bữa tối** – Dùng thức ăn đã chuẩn bị.                                                       |
 |                  | 💧 Cho bé **uống nước** sau bữa tối (ly xanh lá).                                             |
 | **6:30 tối**     | Tắm bé (vì có thể bị bẩn sau bữa tối).                                                        |
@@ -38,7 +38,7 @@ Lịch trình cụ thể dựa theo hướng dẫn của vợ bạn.
 ## 📝 Ghi Nhớ Thêm
 
 - Luôn **cho bé uống nước sau mỗi bữa ăn và mỗi lần ngủ dậy**, dùng **ly màu xanh lá**.
-- **Không để bé ngủ sau 5:30 chiều** để giữ giấc ngủ buổi tối.
+- **Không để bé ngủ sau 5 chiều** để giữ giấc ngủ buổi tối.
 - Sau bữa trưa, tối và phụ – **khuyến khích bé uống nước**, dù bé không thích.
 - Nếu buổi chiều bé ị nhiều, bạn có thể **tắm lại cho bé**.
 
